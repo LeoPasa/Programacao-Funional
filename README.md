@@ -1,2 +1,2 @@
-# Programa-o-Funional
+# Programacao-Funcional
 Repositório da Disciplina Programação Funcional
